@@ -71,7 +71,7 @@ SIEMENS course 2016 (SIMOCODE motor systems).
 
 **English** 🗺️
 
-A1. Communication with locals during eurotrips
+A1. Communication with locals during eurotrips.
 
 ---
 
