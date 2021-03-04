@@ -1,4 +1,4 @@
----
+***
 
 **Name & Contacts** 🧑‍💻
 
@@ -8,7 +8,7 @@ Maksim Tserashkou
 - gonzjv@ya.ru
 - [Telegram](https://t.me/@m_trshkv)
 
----
+***
 
 **About** 🏂
 
