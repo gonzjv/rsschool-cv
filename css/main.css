@@ -1,0 +1,18 @@
+li {
+  list-style-type: circle;
+}
+
+header {
+  border-bottom: solid lavender;
+}
+
+section {
+  border-bottom: solid lavender;
+}
+
+code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  /* padding: 0 3px; */
+}
