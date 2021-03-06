@@ -1,12 +1,30 @@
+main {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 1140px;
+}
+header {
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: flex-start;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-bottom: solid lavender;
+}
+
 ul li {
   list-style-type: circle;
 }
 
-header {
-  border-bottom: solid lavender;
-}
-
 section {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
   border-bottom: solid lavender;
 }
 
