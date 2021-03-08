@@ -42,6 +42,9 @@ section {
   padding-bottom: 1rem;
   border-bottom: solid lavender;
 }
+about {
+  align-items: flex-start;
+}
 p {
   margin-left: 200px;
   margin-right: 200px;
@@ -54,8 +57,16 @@ code {
   /* padding: 0 3px; */
 }
 footer {
+  display: flex;
+  align-items: center;
   padding-top: 1rem;
   padding-bottom: 1rem;
+}
+footer svg {
+  margin: 1em;
+}
+footer a {
+  margin: 1em;
 }
 name_contacts {
   display: flex;
