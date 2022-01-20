@@ -17,7 +17,7 @@ header {
   padding-bottom: 1rem;
   border-bottom: solid lavender;
 }
-img {
+.photo {
   max-width: 300px;
   box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
 }
@@ -81,4 +81,7 @@ name_contacts {
   padding-top: 1rem;
   padding-bottom: 1rem;
   border-bottom: solid lavender;
+}
+.code {
+  max-height: 500px;
 }
